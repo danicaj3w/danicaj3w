@@ -1,5 +1,98 @@
 ## Hi there 👋
 
+<div align="center">
+
+# ✿ Hi, I'm Danica 
+
+✦ software engineer
+✿ artist
+☕ always learning
+
+currently rendering:
+███████░░░ 70%
+˚ ༘♡ ⋆｡˚
+
+</div>
+
+## About Me
+
+🌸 Currently working on:
+- Making websites
+- An art app
+
+🎨 Interested in:
+- Making small apps and fun games
+- Trying useless brushes on Clip Studio Paint
+
+🌱 Learning:
+- 3D modeling
+- Animation
+
+☕ Fun fact:
+- I've made a VSCode Theme with 1k+ downloads! If you want whimsy in your editor, check it out [Citypop Theme](https://marketplace.visualstudio.com/items?itemName=danicaj3w.citypop-theme)
+
+<!---
+
+## Current Projects
+
+### ✦ Project Name
+Short description.
+
+**Tech**
+`TypeScript` `React` `Python`
+
+---
+
+### ✦ Project Name
+Short description.
+
+**Tech**
+`Rust` `Docker`
+
+---
+
+## Toolbox
+
+**Languages**
+
+`Python` `TypeScript` `JavaScript` `C++`
+
+**Frameworks**
+
+`React` `Node.js` `Flask`
+
+**Tools**
+
+`Git` `Docker` `Figma` `Blender`
+
+---
+
+## Currently Exploring
+
+```
+□ Computer Vision
+■ UI/UX
+□ Graphics Programming
+■ AI Tools
+□ Game Development
+```
+
+---
+
+## Philosophy
+
+> "Leave things a little prettier than you found them."
+
+--->
+
+<div align="center">
+
+Thanks for stopping by! ✿
+
+(｡･ω･｡)ﾉ♡
+
+</div>
+
 <!--
 **danicaj3w/danicaj3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
