@@ -17,12 +17,13 @@ currently rendering:
 ## About Me
 
 🌸 Currently working on:
-- Making websites
+- Creating personal website
 - An art app
 
 🎨 Interested in:
-- Making small apps and fun games
-- Trying useless brushes on Clip Studio Paint
+- Developing apps and websites
+- Drawing on Clip Studio Paint
+- Game dev and UI/UX
 
 🌱 Learning:
 - 3D modeling
@@ -30,6 +31,8 @@ currently rendering:
 
 ☕ Fun fact:
 - I've made a VSCode Theme with 1k+ downloads! If you want whimsy in your editor, check it out [Citypop Theme](https://marketplace.visualstudio.com/items?itemName=danicaj3w.citypop-theme)
+- Want a light pink look instead? Check out [Strawberry Matcha Theme](https://marketplace.visualstudio.com/items?itemName=danicaj3w.strawberry-matcha-theme)
+- I've also made the "Alice in Wonderland" theme for the best pixel art app on iPad, Pixquare. Check it out here: [Pixquare](https://www.pixquare.art/)!
 
 <!---
 
